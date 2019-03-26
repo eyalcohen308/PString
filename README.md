@@ -1,8 +1,7 @@
 # PString Exercise Project:  
 1. [Introduction](#introduction)  
-2. [Our Project:](#our-project)  
+2. [main.s:](#main.s)  
 3. [Dependencies:](#dependencies)  
-4. [Installation:](#installation)
 
 
 ## Introduction
